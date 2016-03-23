@@ -2,7 +2,7 @@
 //                         COMPUTER METHODS 3 PRACTICAL TEST 1 (MOCK)
 // Name:KHARIVHE VHUTSHILO
 // Student No:213513899
-// Date: 23-03-2016
+// Date: 23 march 2016
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 #include <string>
