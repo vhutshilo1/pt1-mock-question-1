@@ -21,10 +21,10 @@ int main(int argc, char *argv[]) {
 	cout << "Hello, my name is Vhutshilo." << endl;
 
 	// 1.3 switch to the "master" branch, uncomment the following four lines and make a commit
-	// string name;
-	// cout << "Please enter your name: ";
-	// cin >> name;
-	// cout << "Hello, " << name << endl;
+	 string name;
+	 cout << "Please enter your name: ";
+	 cin >> name;
+	 cout << "Hello, " << name << endl;
 
 	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
 
